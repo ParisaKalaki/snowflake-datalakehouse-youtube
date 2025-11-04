@@ -1,0 +1,14 @@
+CSV_files/
+*.csv
+# Ignore reports
+reports/
+*.pdf
+
+# Ignore large or final report(s)
+/reports/*.pdf
+/reports/*.docx
+
+# Keep processed data or code tracked
+!SQL_queries/
+!docs/images/
+
