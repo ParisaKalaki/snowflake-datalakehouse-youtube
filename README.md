@@ -20,6 +20,7 @@ It focuses on cloud-based ingestion, transformation, and analytical querying of 
 
 ## Repository Structure
 
+```
 youtube-trends-lakehouse/
 │
 ├── README.md
@@ -37,6 +38,7 @@ youtube-trends-lakehouse/
 ├── docs/business_insights.md
 └── reports/
 └── youtube_trends_report.pdf
+```
 
 ## 📊 Business Insights
 

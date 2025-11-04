@@ -12,3 +12,5 @@ reports/
 !SQL_queries/
 !docs/images/
 
+# macOS system files
+.DS_Store
